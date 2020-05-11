@@ -7,7 +7,7 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = "Byte Cookie"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -15,19 +15,23 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
+        <img
+          style={{ margin: "0 auto", display: "block", height: "220px" }}
+          src="./cookie.svg"
+          alt="Gatsby Scene"
+        />
         <h1>
           Hey people{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
         <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+          This is byte_cookie. I'm a front-end engineer and I like all things
+          JavaScript! I'm also an amateur photographer and you'll probably see
+          me occasionally posting some pictures too.
         </p>
-        <p>Now go build something great!</p>
+        <p></p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
