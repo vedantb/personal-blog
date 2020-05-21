@@ -30,25 +30,25 @@ There are multiple options available if you like using dark theme. There's
 
 This is another really simple extension which just makes the repository as wide as it can be on the screen (as seen in the screenshot above) instead of being cetered with white space on the left and right.
 
-### [CodeWyng](https://github.com/CodeWyng/codewyng) <a href="https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee">
+### [CodeWyng](https://github.com/CodeWyng/codewyng)
 
-<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://chrome.google.com/webstore/detail/codewyng/njkkfaliiinmkcckepjdmgbmjljfdeee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 This provides lightning fast code navigation on Github: hover documentation, go-to-definition and find all references of a variable in a file.
 
 ![alt text](https://raw.githubusercontent.com/CodeWyng/codewyng/master/demo.gif "Code Wyng")
 
-### [Git History](https://github.com/pomber/git-history) <a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related">
+### [Git History](https://github.com/pomber/git-history)
 
-<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://chrome.google.com/webstore/detail/git-history-browser-exten/laghnmifffncfonaoffcndocllegejnf/related"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 A really useful extension which let's you quickly browse through the history of changes in a file.
 
 ![alt text](https://gyazo.com/b9d6dff96b52e1722270dad06c4a19c9.gif "Git History")
 
-### [Github VSCode Icons](https://github.com/dderevjanik/github-vscode-icons) <a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd">
+### [Github VSCode Icons](https://github.com/dderevjanik/github-vscode-icons)
 
-<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://chrome.google.com/webstore/detail/github-vscode-icons/hoccpcefjcgnabbmojbfoflggkecmpgd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 A neat extension to show vs-code icons for files instead of boring generic icons.
 
