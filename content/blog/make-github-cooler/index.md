@@ -1,7 +1,7 @@
 ---
 title: Tips to make Github cooler
 date: "2020-05-21"
-description: "Post with some tips to make Github work better 
+description: "Post with some tips to make Github work better" 
 ---
 
 ### Tips
